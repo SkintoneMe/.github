@@ -1,6 +1,6 @@
 # Skintone.me
 
-![Overview Banner!]()
+![Overview Banner!](https://github.com/SkintoneMe/SkintoneMe/blob/main/img.jpg)
 
 The emergence of the topic of skin color analysis in various social media is very much discussed. Skin color analysis is a very necessary thing to know the type of skin color you have and other needs that are in accordance with skin color. The difficulty of getting a skin color analysis facility that is easily accessible and free and can analyze and provide recommendations that are suitable according to the skin color we have is a problem that needs to be overcome.  This is evidenced by the many complaints felt by conducting a survey of 80%, namely the difficulty in determining skin color which of course can affect the suitability of beauty, makeup and fashion products that can affect their appearance. There are several facilities for skin color analysis that are paid and run directly by visiting a beauty clinic or analysis provider that only exists in several big cities which is certainly a problem in reaching these facilities. 
 
